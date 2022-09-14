@@ -1,6 +1,6 @@
-Patika.dev Python Temel Modülü Proje
+## Patika.dev Python Temel Modülü Proje
 
-1) Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. 
+## 1) Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. 
 
 data = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 flat_list=[]
@@ -21,7 +21,7 @@ flatten_list(data)
 print(flat_list)
 
 
-2) Verilen listenin içindeki elemanları tersine döndüren bir fonksiyon yazın. Eğer listenin içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün.
+## 2) Verilen listenin içindeki elemanları tersine döndüren bir fonksiyon yazın. Eğer listenin içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün.
 
 data = [[1, 2], [3, 4], [5, 6, 7]]
 
